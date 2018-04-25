@@ -1,0 +1,35 @@
+.nav {
+  border-bottom: 1px solid #484848;
+  height: 64px;
+}
+
+#logo {
+  font-size: 1.5em;
+  padding-bottom: 10px;
+}
+
+.logo-box {
+  margin-top: 10px;
+  height: 44px;
+  width: 64px;
+  border-right: 1px solid #484848;
+}
+
+ .banner {
+  background-image: url(http://www.markdermul.be/tatooine/photos/day3/lars/1.jpg);
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-position: 50% 50% !important;
+  height: 368px !important;
+}
+
+.sports {
+  display: flex;
+  padding: 30px;
+}
+ 
+.reviews {
+  overflow: hidden;
+  width: 60%;
+  padding: 30px;
+}
